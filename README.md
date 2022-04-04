@@ -9,6 +9,7 @@ The purpose of this project is to create the customer customized travel map by u
 ## Weather Data Research 
 A weather database has been created by use of API from openweathermap.org and retreived 2000 sets of random latitudes and longtitudes. By using the latitudes and longtitudes, we can get the exact location of each city from each country. 
 <img width="714" alt="Screen Shot 2022-04-04 at 6 07 24 PM" src="https://user-images.githubusercontent.com/83077836/161640013-272cadf6-fde5-495d-ac0e-8ba5bd6e7ec8.png">
+
 The weather description can be altered in the future becasue weather description, wind speed, humidity, and cloudiness are all current situation. 
 
 ## Customer Customized Travel - Hotel & Map 
